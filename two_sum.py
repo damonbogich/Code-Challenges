@@ -28,3 +28,5 @@ def two_sum(arr, target):
 nums = [3,2,3]
 target = 6  
 print(two_sum(nums, target))
+
+#testesttest
